@@ -1,4 +1,0 @@
-DROP TABLE IF EXISTS dbo.ProductOrders
-DROP TABLE IF EXISTS dbo.OrderStatus
-DROP TABLE IF EXISTS dbo.Products
-DROP TABLE IF EXISTS dbo.Orders

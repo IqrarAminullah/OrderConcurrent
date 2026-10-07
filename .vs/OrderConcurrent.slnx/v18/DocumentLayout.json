@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\sql\\inittable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\sql\\inittable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\sql\\droptable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\sql\\droptable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\middleware\\correlationiddelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\middleware\\correlationiddelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\data\\interfaces\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\data\\interfaces\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\middleware\\correlationidloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\middleware\\correlationidloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\middleware\\idempotencymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\middleware\\idempotencymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\sql\\droptable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\sql\\droptable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|c:\\users\\asus\\source\\repos\\orderconcurrent\\orderconcurrent\\sql\\inittable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D05E9AB4-B456-E30D-CCB5-5F75515D5A2D}|OrderConcurrent\\OrderConcurrent.csproj|solutionrelative:orderconcurrent\\sql\\inittable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderConcurrent\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAewEkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:03:39.013Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "OrderConcurrent\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwFAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:28:35.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Readme.md",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Readme.md",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Readme.md",
+              "RelativeToolTip": "OrderConcurrent\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-07T02:49:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitTable.sql ",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\SQL\\InitTable.sql",
+              "RelativeDocumentMoniker": "OrderConcurrent\\SQL\\InitTable.sql",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\SQL\\InitTable.sql",
+              "RelativeToolTip": "OrderConcurrent\\SQL\\InitTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-07T02:48:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DropTable.sql ",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\SQL\\DropTable.sql",
+              "RelativeDocumentMoniker": "OrderConcurrent\\SQL\\DropTable.sql",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\SQL\\DropTable.sql",
+              "RelativeToolTip": "OrderConcurrent\\SQL\\DropTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-07T02:47:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderConcurrent\\Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:28:49.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderConcurrent\\Services\\OrderService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADgv0kAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:12:00.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "OrderConcurrent\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:36:05.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Repository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "OrderConcurrent\\Repository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:01:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:29:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "OrderConcurrent\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwvy4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:00:51.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CorrelationIdDelegatingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdDelegatingHandler.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Middleware\\CorrelationIdDelegatingHandler.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdDelegatingHandler.cs",
+              "RelativeToolTip": "OrderConcurrent\\Middleware\\CorrelationIdDelegatingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:12:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Data\\DbContext.cs",
+              "RelativeToolTip": "OrderConcurrent\\Data\\DbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCAAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:09:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Data\\Interfaces\\IDbContext.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Data\\Interfaces\\IDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Data\\Interfaces\\IDbContext.cs",
+              "RelativeToolTip": "OrderConcurrent\\Data\\Interfaces\\IDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:09:13.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Middleware\\CorrelationIdMiddleware.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "OrderConcurrent\\Middleware\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:06:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderConcurrent\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\appsettings.json",
+              "RelativeToolTip": "OrderConcurrent\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T11:46:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Startup.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Startup.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Startup.cs",
+              "RelativeToolTip": "OrderConcurrent\\Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAnwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:11:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Program.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Program.cs",
+              "RelativeToolTip": "OrderConcurrent\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:23:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CorrelationIdLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Middleware\\CorrelationIdLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\CorrelationIdLoggingMiddleware.cs",
+              "RelativeToolTip": "OrderConcurrent\\Middleware\\CorrelationIdLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:16:25.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IdempotencyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\IdempotencyMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Middleware\\IdempotencyMiddleware.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Middleware\\IdempotencyMiddleware.cs",
+              "RelativeToolTip": "OrderConcurrent\\Middleware\\IdempotencyMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:06:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:43:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Pagination.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\Pagination.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Pagination.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\Pagination.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:44:21.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Order.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:04:01.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\OrderFilter.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\OrderFilter.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\OrderFilter.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\OrderFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:46:59.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrderConcurrent\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\OrderConcurrent\\OrderConcurrent\\Models\\Product.cs",
+              "RelativeToolTip": "OrderConcurrent\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:06:15.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

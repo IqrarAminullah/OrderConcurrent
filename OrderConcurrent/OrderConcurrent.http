@@ -1,0 +1,6 @@
+@OrderConcurrent_HostAddress = http://localhost:5199
+
+GET {{OrderConcurrent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
